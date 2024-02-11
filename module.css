@@ -25,7 +25,7 @@
     border: 1px solid black;
     border-radius: var(--bs-navbar-toggler-border-radius);
     transition: var(--bs-navbar-toggler-transition);
-    margin-bottom: 10px;
+    margin: 10px;
 }
 .navbar-collapse {
     flex-basis: 100%;
@@ -45,7 +45,7 @@
 }
 .navbar-collapse a:hover {
     background-color:blue;
-   color: white;
+    color: white;
 }
 #nav1{
 background-color: #7D7C7C;
