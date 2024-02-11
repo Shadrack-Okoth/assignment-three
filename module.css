@@ -50,9 +50,9 @@
 #nav1{
 background-color: #7D7C7C;
 }
-.header{
+#header{
     text-align: center;
-     margin: 30px;
+     padding: 10px;
 }
 .body{
     display: flex;
